@@ -4,3 +4,6 @@
 [submodule "zlog"]
 	path = zlog
 	url = https://github.com/HardySimpson/zlog
+[submodule "l3"]
+	path = l3
+	url = https://github.com/undoio/l3
